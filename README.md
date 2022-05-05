@@ -1,22 +1,7 @@
 # Linear_Regression_Neural_Network_and_Clustering
 
- Q2: Assume that we have the xor function with two inputs and one output as shown in the following table. Design a neural network to correctly represent this function, you can use any number of hidden layers. Explain your steps. Test the designed network using two different input values.
-•	Neural Network Design
 
-
-![resim](https://user-images.githubusercontent.com/41449476/166921067-74d6afbe-550e-4c69-bacb-a06376e2d754.png)
-
-
-•	Example 1
-
-![resim](https://user-images.githubusercontent.com/41449476/166921092-7cb39a5d-8317-434a-83fe-f464f99ca028.png)
-
-•	Example 2
-
-![resim](https://user-images.githubusercontent.com/41449476/166921113-98031271-bca3-437e-add1-2437ae6f56a1.png)
-
-
- Q3: Use python to cluster the points that given in the file points.txt. Use K-means algorithm. You should use different number of clusters 2,3,4, and 5. Draw the results of each case and show the points of each cluster with different color. Explain which one is the best and discuss the results.
+# Use python to cluster the points that given in the file points.txt. Use K-means algorithm. You should use different number of clusters 2,3,4, and 5. Draw the results of each case and show the points of each cluster with different color. Explain which one is the best and discuss the results.
 1.	2 Clusters
 
 ![resim](https://user-images.githubusercontent.com/41449476/166921132-a9c20edd-3a4b-4af0-a049-b819ef9ad558.png)
